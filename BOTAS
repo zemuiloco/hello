@@ -1,0 +1,12 @@
+void main () 
+
+{  
+  char m;
+  int  l;
+  float d;
+  double e;
+  m=m
+  l=m
+  d=l/2
+  e=l/2
+}
